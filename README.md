@@ -7,8 +7,8 @@ This repository involves cleaning text data from Jane Austen's Pride and Prejudi
 - Building ML model and predicting whether the randomly chosen sentence belongs to Austen or Bronte.
 - Analyzing confusion matrix and accuracy of model.
 
-  # Libraries Used
+# Libraries Used
 
-  - Data Manipulating: Numpy, Pandas, Requests, Re, Io, gensim.models, Nltk
-  - Machine Learning: Sklearn
-  - Analysis Part: Pandas, Matplotlib
+- Data Manipulating: Numpy, Pandas, Requests, Re, Io, gensim.models, Nltk
+- Machine Learning: Sklearn
+- Analysis Part: Pandas, Matplotlib
